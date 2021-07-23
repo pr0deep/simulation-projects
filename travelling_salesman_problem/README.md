@@ -1,0 +1,1 @@
+COMMAND LINE : .\tsp.exe NO_OF_POINTS
